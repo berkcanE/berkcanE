@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @berkcanE
 - 👀 I’m interested in coding and helping to people
 - 🌱 I’m currently working a android application for my degree project
-- 📫 Contact me by LinkedIn, email.
+- 📫 Contact me by LinkedIn, email. I am also on HackerRank.
