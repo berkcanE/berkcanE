@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @berkcanE
+- 👀 I’m interested in coding and helping to people
+- 🌱 I’m currently working the android application for my degree project
+- 📫 How to reach me by LinkedIn, email.
